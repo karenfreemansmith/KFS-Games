@@ -1,0 +1,33 @@
+// Palette URL: http://paletton.com/#uid=1270C0kw0w0jyC+oRxVy4oIDfjr */
+// As hex codes */
+$color-primary-0: #CCF600;	// Main Primary color */
+$color-primary-1: #DEF861;
+$color-primary-2: #D6F737;
+$color-primary-3: #9EBE00;
+$color-primary-4: #7C9500;
+
+// As RGBa codes */
+$rgba-primary-0: rgba(204,246,  0,1);	// Main Primary color */
+$rgba-primary-1: rgba(222,248, 97,1);
+$rgba-primary-2: rgba(214,247, 55,1);
+$rgba-primary-3: rgba(158,190,  0,1);
+$rgba-primary-4: rgba(124,149,  0,1);
+
+body {
+  background-color: $color-primary-0;
+  padding-top: 70px;
+}
+
+.container{
+  background-color: $rgba-primary-1;
+}
+
+h1 {
+  color: $color-primary-4;
+  text-align: center;
+  font-size: 4.5em;
+}
+
+.playing {
+  display: none;
+}

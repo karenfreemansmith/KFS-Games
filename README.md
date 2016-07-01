@@ -1,13 +1,12 @@
-# [Basic Game Loop](http://karenfreemansmith.github.io/gameloop)
+# [Games](http://karenfreemansmith.github.io/gameloop)
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: April 7, 2016__
+__Version 1.1.0: June 30, 2016__
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
 ### Description
-__*A very basic game loop.*__
-#### Uses:
-* [FreshStart](https://github.com/karenfreemansmith/freshstart)
+__*A collection of games and game-related projects.*__
+
 
 ### Setup/Installation
 *None required. Clone or download and extract to use*
@@ -16,10 +15,10 @@ __*A very basic game loop.*__
 For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 
 ### Known Issues
-* There is no actual game to play
+
 
 ### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
+###### HTML, CSS, JavaScript, jQuery, Node.js, npm, gulp
 
 ### Legal
 *Licensed under the GNU General Public License v3.0*
